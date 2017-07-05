@@ -13,7 +13,7 @@ var Nav = () => {
             <Link to='/' activeClassName='active-link'>Timer</Link>
           </li>
           <li>
-            <Link to='/' activeClassName='active-link'>Countdown</Link>
+            <Link to='/Countdown' activeClassName='active-link'>Countdown</Link>
           </li>
         </ul>
       </div>
